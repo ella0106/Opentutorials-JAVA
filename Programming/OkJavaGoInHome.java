@@ -1,3 +1,6 @@
+import javax.swing.JOptionPane;
+
+import org.opentutorials.iot.DimmingLights;
 import org.opentutorials.iot.Elevator;
 import org.opentutorials.iot.Lighting;
 import org.opentutorials.iot.Security;
@@ -5,7 +8,8 @@ import org.opentutorials.iot.Security;
 public class OkJavaGoInHome {
 	public static void main(String[] args) {
 		
-		String id = "JAVA APT 101";
+		String id = JOptionPane.showInputDialog("Enter an ID");
+		String bright = JOptionPane.showInputDialog("Enter a bright level");
 		
 		//Elevator call
 		Elevator myElevator = new Elevator(id);
@@ -21,6 +25,10 @@ public class OkJavaGoInHome {
 		
 		Lighting floorLamp = new Lighting(id+" / floorLamp");
 		floorLamp.on();
+		
+		DimmingLights moodLamp = new DimmingLights(id+" moodLamp");
+		moodLamp.setBright(Double.parseDouble(bright));
+		moodLamp.on();
 
 	}
 
