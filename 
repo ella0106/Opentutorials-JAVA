@@ -1,0 +1,175 @@
+[33mcommit 142160d5c3d17511c0d2bf0a590083a907341df6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Sat May 14 23:09:00 2022 +0900
+
+    Create Program.java
+
+[33mcommit 73048c9ebada983573d3e78e859562265512c5cc[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Fri May 13 23:34:53 2022 +0900
+
+    Create Lighting.java
+
+[33mcommit 4148c9f29b02042c9fea3135ba97ffe8b1287af6[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Fri May 13 23:34:50 2022 +0900
+
+    Create Refrigerator.java
+
+[33mcommit 6275e0b7f5e44b29a673408fbc9c1e69b5e496c3[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Fri May 13 23:34:48 2022 +0900
+
+    Create Speaker.java
+
+[33mcommit f1921c48c51f119b3d61bbceb0b615837e8f3fd8[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Fri May 13 23:34:45 2022 +0900
+
+    Create Security.java
+
+[33mcommit 7f83e2b8dac16c92c0db4f83abf673783e565672[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Fri May 13 23:34:41 2022 +0900
+
+    Create OnOff.java
+
+[33mcommit 52f41c1809739ed86c62023c2b0edd775cd7268d[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Fri May 13 23:34:39 2022 +0900
+
+    Create Elevator.java
+
+[33mcommit 7d59dbe5a25fa21d5b92089e4fd0e0e623a2a26b[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Fri May 13 23:34:36 2022 +0900
+
+    Create DimmingLights.java
+
+[33mcommit 967c478f5bb3eab23b09c798bfff775612e9e273[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Thu May 12 22:13:10 2022 +0900
+
+    Create ColorDimmingLights.java
+
+[33mcommit 4ec9a712656ca7f8cea8dfd24f7fb70034fda34e[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Thu May 12 22:13:07 2022 +0900
+
+    Create Aircon.java
+
+[33mcommit 425945a57c498cedd86fa1638845643a19dc5e68[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Thu May 12 22:13:04 2022 +0900
+
+    Create .gitignore
+
+[33mcommit 7a6f696837700d9cf7f0aa7f2e874aa18cd1a804[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Wed May 11 14:34:36 2022 +0900
+
+    Create OkJavaGoInHome.java
+
+[33mcommit 031a8d3617f34e4c84843d4fd8b0d17b55a6b185[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Wed May 11 14:34:34 2022 +0900
+
+    Create org.eclipse.jdt.core.prefs
+
+[33mcommit ab63243d3d0ec31aee82bfd3404217dad8301fcb[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Tue May 10 01:55:27 2022 +0900
+
+    Create .project
+
+[33mcommit 30810c22bc04873cc4e7230287352a9c71a4e75f[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Tue May 10 01:55:24 2022 +0900
+
+    Create .gitignore
+
+[33mcommit b982b7295bad53e2c634628233cfd71b393037aa[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Tue May 10 01:55:21 2022 +0900
+
+    Create .classpath
+
+[33mcommit 4d1515f5c92d2d1097c3eb2f0f82fe163ab3e872[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Mon May 9 01:33:55 2022 +0900
+
+    Create Letter.java
+
+[33mcommit 12ca4edbcb0426e0922480a0bca8c3e835aadf84[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Sun May 8 20:46:44 2022 +0900
+
+    Create Casting.java
+
+[33mcommit 867eba4e9d0b1ed69ce2710cbd26ab3b491096f7[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Sat May 7 03:51:19 2022 +0900
+
+    Create Variable.java
+
+[33mcommit ab80a87528a5cb09a048a703b029a488a9be9a8c[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Sat May 7 03:51:17 2022 +0900
+
+    Update .gitignore
+
+[33mcommit 85ab3b2b16ab94a3ff1c89bd774905e385323580[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Fri May 6 22:17:10 2022 +0900
+
+    Create StringOperation.java
+
+[33mcommit 52f6930f26b4120158b700bd97dc692fc524f4e6[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Thu May 5 21:45:03 2022 +0900
+
+    Create StringApp.java
+
+[33mcommit 7dc90e617864174c41f065abcdd189502db5dcec[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Wed May 4 02:33:36 2022 +0900
+
+    Create Number.java
+
+[33mcommit de68e427e328f9cb0491cd66c578b31d7a5215a8[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Mon May 2 00:49:23 2022 +0900
+
+    6-1
+    
+    6-1 데이터타입
+
+[33mcommit 42d51603ecf56573a668787a03b9deb90f2a04ea[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Sat Apr 30 23:58:34 2022 +0900
+
+    5-2강
+    
+    5-2강 실습
+
+[33mcommit 6082c32316ed3cc1294d5a78732484dc2d4e3eee[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Wed Apr 27 16:35:21 2022 +0900
+
+    MainType
+    
+    자바 소스코드 및 실행파일 경로 설정
+
+[33mcommit ef8070104d92c50c4620c9e5de90322be11c02a2[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Tue Apr 26 10:05:50 2022 +0900
+
+    helloWorld
+    
+    4-1
+
+[33mcommit 971dbb473aa7f73b5da47c56f6fcc381d36fd4d1[m
+Author: ella0106 <ella0106@naver.com>
+Date:   Tue Apr 26 09:25:14 2022 +0900
+
+    Initial commit
